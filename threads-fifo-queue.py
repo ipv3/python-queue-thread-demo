@@ -1,4 +1,4 @@
-#!/usr/bin/python3.6
+#!/usr/bin/python3
 # threads-fifo-queue.py
 # version 1.0
 # Send messages between 2 sub-threads via Python queue
